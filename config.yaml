@@ -1,0 +1,6 @@
+hostname: https://kcc.finomen.net
+debug_hostname: http://localhost:8080
+upstream: wss://kcc.finomen.net:443/printsocket
+debug_upstream: ws://localhost:8080/printsocket
+moonraker_socket: ws://klipper.sunrise.box/websocket
+moonraker_url: http://klipper.sunrise.box
